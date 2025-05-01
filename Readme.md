@@ -26,3 +26,8 @@ Later, you can add feedback to make the agent smarter.
 Future scope:
 
 How to expand to multiple students/job searchers
+
+For Building agent:
+Reference : https://medium.com/@gurpartap.sandhu3/build-you-own-ai-agent-from-scratch-in-30-mins-using-simple-python-1458f8099da0
+
+Job Link used : https://remoteok.com
